@@ -21,3 +21,6 @@ Also:
 ### `npm build`
 
 Builds the app for production to the `build` folder.\
+
+
+The app is built using react and tailwindcss, it is a simple multistep form made with a switch statement (Home.js) that renders specific form components based on overall form completion progress.
