@@ -23,4 +23,4 @@ Also:
 Builds the app for production to the `build` folder.\
 
 
-The app is built using react and tailwindcss, it is a simple multistep form made with a switch statement (Home.js) that renders specific form components based on overall form completion progress.
+The app is built using react and tailwindcss, it is a simple multistep form made with a switch statement (Home.js) that renders specific form components based on overall form completion progress. Has a simple form validation (i.e, ineffective), all the variables are stored in a state (no context or redux) so they will be destroyed when you leave the page/refresh.
